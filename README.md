@@ -14,7 +14,7 @@ The system classifies posts into:
 - 100,000 Instagram posts
 - Training: 80,000
 - Testing: 20,000
-- Domain: COVID-19 related posts
+  
 
 ---
 
