@@ -1,7 +1,7 @@
 # Multilingual Sentiment Analysis using Transformer Models
 
 ##  Overview
-This project performs sentiment analysis on multilingual COVID-19 Instagram posts using transformer-based models: mBERT and XLM-RoBERTa.
+This project performs sentiment analysis on multilingual Instagram posts using transformer-based models: mBERT and XLM-RoBERTa.
 
 The system classifies posts into:
 - Positive
